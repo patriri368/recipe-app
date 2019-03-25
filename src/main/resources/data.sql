@@ -1,0 +1,12 @@
+INSERT INTO category (description) VALUES ('Amerykańska');
+INSERT INTO category (description) VALUES ('Włoska');
+INSERT INTO category (description) VALUES ('Meksykańska');
+INSERT INTO category (description) VALUES ('Fast Food');
+INSERT INTO unit_of_measure (description) VALUES ('łyżeczka');
+INSERT INTO unit_of_measure (description) VALUES ('łyżka');
+INSERT INTO unit_of_measure (description) VALUES ('szklanka');
+INSERT INTO unit_of_measure (description) VALUES ('szczypta');
+INSERT INTO unit_of_measure (description) VALUES ('uncja');
+INSERT INTO unit_of_measure (description) VALUES ('sztuka');
+INSERT INTO unit_of_measure (description) VALUES ('odrobina');
+INSERT INTO unit_of_measure (description) VALUES ('kufel');
